@@ -1,4 +1,8 @@
 <?php
+<<<<<<< HEAD
 	$a = 'tasy';
 	echo "hello".$a;
+=======
+	echo "hello abc";
+>>>>>>> dev
 ?>
