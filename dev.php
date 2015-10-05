@@ -1,4 +1,4 @@
 <?php
-	$a = 'tasy';
+	$a = 'dev';
 	echo "hello ".$a;
 ?>
