@@ -1,4 +1,9 @@
 <?php
-
-	echo 'a';
+<<<<<<< HEAD
+	$b = 'master'
+	echo 'hello '.$b;
+=======
+	$a = 'dev';
+	echo "hello ".$a;
+>>>>>>> dev
 ?>
